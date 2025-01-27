@@ -44,6 +44,8 @@ The project includes unit tests to ensure that the toll calculations and total c
 - Total toll collection calculation.
 - Report printing with vehicles and their respective toll charges.
 
+  ![Unit Tests](!![img_2.png](img_2.png)
+
 ### Requirements
 
 - **Java 11 or higher**
